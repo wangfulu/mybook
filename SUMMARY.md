@@ -5,5 +5,5 @@
   * [PM日常笔记](主旨.md)
   * [APP设计日常笔记](问题.md)
   * [思路整理](思路.md)
-  * [互联网相关文章](hu-lian-wang-xiang-guan-wen-zhang.md)
+  * [互联网文章](hu-lian-wang-xiang-guan-wen-zhang.md)
 
